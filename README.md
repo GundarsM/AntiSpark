@@ -16,3 +16,7 @@ Soldered back:
 In case:
 
 <img src="https://github.com/GundarsM/AntiSpark/assets/127497152/79943052-9eac-476d-986c-66e4ac283eca" width = 50%>
+
+Case CAD:
+
+<img src="https://github.com/GundarsM/AntiSpark/assets/127497152/698a51d1-a5d0-4ee3-9c50-67e0de2f367a" width = 50%>
